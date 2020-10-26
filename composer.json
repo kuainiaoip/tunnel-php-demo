@@ -1,0 +1,13 @@
+{
+    "name": "kuainiaoip.com/tunnel-php-demo",
+    "type": "project",
+    "authors": [
+        {
+            "name": "kuainiaoip",
+            "email": "kuainiaoip@duizhancloud.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.2"
+    }
+}
